@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/yumechi/gas-deploy#readme",
   "devDependencies": {
-    "@google/clasp": "^2.3.1",
+    "@google/clasp": "^2.4.1",
     "@types/google-apps-script": "^1.0.42",
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
