@@ -1,0 +1,2 @@
+# gas-deploy
+GASをGitHub Actionsでデプロイする
