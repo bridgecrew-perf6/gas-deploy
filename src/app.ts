@@ -1,3 +1,3 @@
 function hello() {
-  Logger.log("こんぺこ～アーモンドアーモンド")
+  Logger.log("こんぺこ～あっはっは")
 }

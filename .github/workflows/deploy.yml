@@ -2,12 +2,12 @@ name: GAS depoly
 
 on:
   push:
-    - main
+    branches:
+      - main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: checkout
         uses: actions/checkout@v2
