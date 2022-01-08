@@ -1,4 +1,4 @@
-name: GAS deploy
+name: deployment
 
 on:
   push:
