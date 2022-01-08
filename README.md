@@ -1,5 +1,4 @@
 # gas-deploy
 GASをGitHub Actionsでデプロイする
 
-[![GAS deploy](https://github.com/yumechi/gas-deploy/actions/workflows/deploy.yml/badge.svg?event=deployment)](https://github.com/yumechi/gas-deploy/actions/workflows/deploy.yml)
-
+[![deployment](https://github.com/yumechi/gas-deploy/actions/workflows/deployment.yml/badge.svg?branch=main&event=push)](https://github.com/yumechi/gas-deploy/actions/workflows/deployment.yml)
