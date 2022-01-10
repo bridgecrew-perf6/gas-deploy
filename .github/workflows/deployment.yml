@@ -1,3 +1,5 @@
+# 下記の記事のコードを引用し、一部自分の環境に合うように編集して書きました
+# refer: https://dev.classmethod.jp/articles/github-actions-gas-deploy/
 name: deployment
 
 on:
